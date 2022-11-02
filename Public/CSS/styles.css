@@ -3,7 +3,15 @@
     background-color: darkcyan!important;
 }   
 
+.icono{
+    width: 40px;
+    height: 40px;
+}
 
+.imagen{
+    width: 100%;
+    height: auto;
+}
 
 body
 {
